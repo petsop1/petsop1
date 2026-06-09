@@ -1,7 +1,6 @@
 # Welcome
 
-Engineer with a passion for data, automation, and practical problem solving.
-
+Engineer focused on data analytics, process automation, database design, and software development.
 Technical interests:
 
 - SQL & Database Design
