@@ -1,19 +1,40 @@
 # Welcome
 
-Engineer focused on data analytics, process automation, database design, and software development.
-Technical interests:
+Engineer focused on data analytics, software development, process automation, database systems, and industrial testing.
 
-- SQL & Database Design
-- Python Automation
-- Power BI & Data Visualization
-- Data Analysis
-- Process Optimization
+My background combines engineering, laboratory management, software development, and data-driven decision making. I enjoy building practical solutions that connect data, automation, and real-world engineering problems.
+
+## Technical Interests
+
+* Python Development & Automation
+* SQL & Database Design
+* Data Analytics & Visualization
+* Business Intelligence (Power BI)
+* Web Development (Flask, JavaScript)
+* Process Optimization
+* Industrial IoT & Data Acquisition
 
 ## Featured Projects
 
+### Harvard CS50x
+
+Successful completion of Harvard University's flagship Introduction to Computer Science course.
+
+Highlights:
+
+* Algorithms and data structures
+* C, Python, SQL and Web Development
+* Flask application development
+* Authentication and database design
+* Flow State full-stack capstone project
+
+🔗 CS50x Repository
+
+---
+
 ### Harvard CS50 SQL
 
-Successful completion of Harvard University's **CS50's Introduction to Databases with SQL** course.
+Successful completion of Harvard University's Introduction to Databases with SQL course.
 
 Highlights:
 
@@ -23,11 +44,11 @@ Highlights:
 * Database scalability concepts
 * RiskPulse operational risk management database
 
-🔗 [CS50 SQL Repository](https://github.com/petsop1/CS50SQL)
+🔗 CS50 SQL Repository
 
 ---
 
-### Power BI Dashboard
+### Power BI Portfolio
 
 Interactive dashboards and reporting solutions focused on transforming operational data into actionable business insights.
 
@@ -36,15 +57,16 @@ Highlights:
 * KPI reporting
 * Data visualization
 * Business analytics
-* Interactive dashboards
+* Dashboard design
+* Power Query and data modeling
 
-🔗 [Power BI Dashboard](https://github.com/petsop1/Power_BI_Dashboard)
+🔗 Power BI Portfolio
 
----
+## Current Focus
 
-### Current Focus
-
-* SQL and database design
-* Python automation
-* Data analytics workflows
-* Reporting and visualization
+* Python application development
+* Database architecture and analytics
+* Automation and workflow optimization
+* Data visualization and reporting
+* Industrial IoT solutions
+* AI-assisted engineering workflows
