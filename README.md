@@ -28,7 +28,7 @@ Highlights:
 * Authentication and database design
 * Flow State full-stack capstone project
 
-🔗 CS50x Repository
+🔗 [CS50x Repository](https://github.com/petsop1/CS50x)
 
 ---
 
@@ -44,7 +44,7 @@ Highlights:
 * Database scalability concepts
 * RiskPulse operational risk management database
 
-🔗 CS50 SQL Repository
+🔗 [CS50SQL Repository](https://github.com/petsop1/CS50SQL)
 
 ---
 
@@ -60,7 +60,7 @@ Highlights:
 * Dashboard design
 * Power Query and data modeling
 
-🔗 Power BI Portfolio
+🔗 [Power BI Portfolio](https://github.com/petsop1/Power-BI-Portfolio)
 
 ## Current Focus
 
